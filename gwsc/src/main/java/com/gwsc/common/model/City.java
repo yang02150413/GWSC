@@ -28,7 +28,6 @@ import javax.persistence.UniqueConstraint;
 
 public class City  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer id;

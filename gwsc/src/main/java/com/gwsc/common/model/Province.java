@@ -26,7 +26,6 @@ import javax.persistence.UniqueConstraint;
 
 public class Province  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer id;

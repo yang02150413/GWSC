@@ -22,7 +22,6 @@ import javax.persistence.Table;
 
 public class Userinfo  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer pkId;

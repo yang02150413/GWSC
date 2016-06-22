@@ -25,7 +25,6 @@ import javax.persistence.TemporalType;
 
 public class Order  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer pkId;
