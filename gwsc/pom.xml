@@ -73,7 +73,13 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.26</version>
 		</dependency>
-
+		
+		<!-- druid -->
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid</artifactId>
+			<version>0.2.9</version>
+		</dependency>
 
 		<!-- aspectjweaver.jar这是Spring AOP所要用到的包 -->
 		<dependency>
