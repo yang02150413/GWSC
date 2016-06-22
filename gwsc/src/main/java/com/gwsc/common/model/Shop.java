@@ -26,7 +26,6 @@ import javax.persistence.Table;
 
 public class Shop  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer pkId;

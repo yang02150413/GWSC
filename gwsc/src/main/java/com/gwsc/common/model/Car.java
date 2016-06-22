@@ -21,7 +21,6 @@ import javax.persistence.Table;
 )
 public class Car  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer pkId;

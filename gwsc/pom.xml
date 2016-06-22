@@ -17,7 +17,6 @@
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
-
 		<!-- servlet -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -25,14 +24,12 @@
 			<version>3.0-alpha-1</version>
 			<scope>provided</scope>
 		</dependency>
-
 		<!-- log4j -->
 		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.14</version>
 		</dependency>
-
 		<!-- jstl -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -45,49 +42,42 @@
 			<version>2.2.1-b03</version>
 			<scope>provided</scope>
 		</dependency>
-
 		<!-- 文件上传 -->
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
 			<version>1.2.2</version>
 		</dependency>
-
 		<!-- fastJson json数组有关的 -->
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
 			<version>1.1.26</version>
 		</dependency>
-
 		<!-- 使用 Jackson 把 Java 对象转换成 JSON 字串 -->
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
 			<version>1.9.11</version>
 		</dependency>
-
 		<!-- mysql数据库驱动 -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.26</version>
 		</dependency>
-
 		<!-- druid -->
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid</artifactId>
 			<version>0.2.9</version>
 		</dependency>
-
 		<!-- aspectjweaver.jar这是Spring AOP所要用到的包 -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
 			<artifactId>aspectjweaver</artifactId>
 			<version>1.7.1</version>
 		</dependency>
-
 		<!-- hibernate4 and database -->
 		<dependency>
 			<groupId>org.hibernate</groupId>

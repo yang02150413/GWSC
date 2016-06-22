@@ -22,7 +22,6 @@ import javax.persistence.Table;
 
 public class List2  implements java.io.Serializable {
 
-
     // Fields    
 
      private Integer pkId;
