@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 /**
  * MD5加密和MD5校验
  * 参考资料 http://lzzjava.blog.51cto.com/2554001/911086
- *
  */
 public class Md5Encrypt {
 	private static final Logger logger = LoggerFactory.getLogger(Md5Encrypt.class);
